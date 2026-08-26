@@ -61,3 +61,6 @@ frontend/locale-coverage.json
 
 # Chaos suite runtime marker/summary directory (regenerated on every run)
 .chaos-run/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
